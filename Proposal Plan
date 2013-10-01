@@ -1,0 +1,21 @@
+Proposal Plan
+Chun Wa Tang
+Student number – C11385741
+I am a big fan of the classic arcade game “Asteroid”. So my proposed plan for the second semester assignment is to do 
+my own variation of this game with added features. The goal of the game is to survive as long as you can with asteroid 
+coming at the player in all direction. The asteroid will speed up slowly if it does not collide with anything and it will
+slow down if it does. There will be three asteroid types large, medium and small, each with different health and player
+must either break or dodge the asteroid. If the health falls to zero it will break apart or destroyed. Few of the extra
+elements I have in mind is aliens chasing the player around and maybe a boss or some sort once the player reaches a 
+certain scores. Also random power ups or extra health as items randomly generated on the map which player can get 
+to boost the spaceship.
+
+Some of the added features that I had brain-stormed so far are a menu system, scores system, game-play with music, 
+pause and resume, monsters randomly spawning to attack the player and power ups of some sort. There will more to be
+added and implemented if there is any time left over before it is due.
+
+Some of the proposed tested to test this program is to do stages testing along the way as I am implementing each of 
+the features or functionality of the game. I am also thinking getting a few friends to test the game out and see if
+they would encounter any errors or glitch inside the game. 
+
+The link to my blog page is timmytang.wordpress.com.
