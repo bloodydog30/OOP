@@ -1,0 +1,48 @@
+F:\Asteroids\Asteroid\Asteroid\Asteroid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Asteroid.exe
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Asteroid.pdb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\obj\x86\Debug\Asteroid.exe
+F:\Asteroids\Asteroid\Asteroid\Asteroid\obj\x86\Debug\Asteroid.pdb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\back.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\bullet.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\exit.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\gamebackground.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\large.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\mainmenu.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\medium.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\score.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\ship.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\small.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\start.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\GameFont.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\Paused.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\shield.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\again.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\firerate.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\life.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\speed.xnb
+F:\Asteroids\Asteroid\Asteroid\Asteroid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\back.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\exit.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\gamebackground.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\large.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\mainmenu.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\medium.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\score.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\ship.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\small.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\start.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\shield.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\again.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\firerate.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\life.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\speed.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Content\Paused.xnb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Asteroid.exe
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\bin\x86\Debug\Asteroid.pdb
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\obj\x86\Debug\Asteroid.csprojResolveAssemblyReference.cache
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\obj\x86\Debug\Asteroid.exe
+C:\Users\Timmy\Desktop\year 2\Object Orientated programing\Semester_2\Asteroids\Asteroid\Asteroid\Asteroid\obj\x86\Debug\Asteroid.pdb
